@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Light - Manish Patil | UI UX | Product Designer-clone",
-    "currentPage": "light.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -102,7 +102,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/manish-patil-ui-ux-designer-favicon_2.svg",
-    "mbrsiteDomain": "o8mi9imumo",
+    "mbrsiteDomain": "hg1b8anegp",
     "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -113,7 +113,7 @@
     "publishChangesOnly": true
   },
   "pages": {
-    "light.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",

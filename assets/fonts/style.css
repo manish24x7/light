@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Switzer-Medium';
+   font-display: swap;
+   src: url('Switzer-Medium/font.woff');
+}
+@font-face {
+   font-family: 'Switzer-Regular';
+   font-display: swap;
+   src: url('Switzer-Regular/font.woff');
+}

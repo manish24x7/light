@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Light - Manish Patil | UI UX | Product Designer-clone",
+    "name": "Light - Manish Patil | UI UX | Product Designer",
     "currentPage": "index.html",
     "theme": {
       "name": "startm5",
@@ -110,7 +110,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {

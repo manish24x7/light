@@ -1,2 +1,0 @@
-# light
-GitHub Pages
